@@ -4,7 +4,7 @@ A simple application to generate NRIC numbers. This project was created with Rea
 
 ## Installation and Setup
 
-Move into your desired folder and clone this repository this Github.
+Move into your desired folder and clone this repository.
 
     git clone https://github.com/Fadh1/NRIC_Gen.git
 
